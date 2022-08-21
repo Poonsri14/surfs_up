@@ -7,15 +7,14 @@ W. Avy wants more information about temperature trends before opening the surf s
 
 ## Results:
 
-### The Summary Statistics for June andDecember
+### The Summary Statistics for June and December
 
-![]()
+![Jun_vs_Dec](https://github.com/Poonsri14/surfs_up/blob/main/Jun_vs_Dec.png)
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+The image of the Summary Statistics above show that there are couple differences in weather between June and December. First, the total number of dataset in June is hihger than in December. Second, the mininum temperature trends in June is 64 degree and maximum is 85 degree, while the mininum temperature trends in December is 56 degree and maximum is 83 degree. The average temperature trends in June is warmer than December.
 
 
 ## Summary:
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. 
-
-which one has the most rain or check each month to see the temps and precipitation wind speed.
+Base on the overall weather trends between June and December, the surf and ice cream shop business is good to open sustainable year-round.
+However, if you would like to get more information before making the decision, I would sugeest to gather and perform more weather data such as to analyze which month has the most rain or analyze the temperatures, precipitation, and wind speed each month.
