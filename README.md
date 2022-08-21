@@ -7,10 +7,9 @@ W. Avy wants more information about temperature trends before opening the surf s
 
 ## Results:
 
-### Deliverable 1: Determine the Summary Statistics for June
+### The Summary Statistics for June andDecember
 
-
-### Deliverable 2: Determine the Summary Statistics for December
+![]()
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
